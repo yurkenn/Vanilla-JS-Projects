@@ -4,8 +4,10 @@ In this repo I have small Js projects. I will uptade here when I finish my proje
 
 Here some screenshots from my projects :
 
+Project 1 Color Filipper
 ![Ekran görüntüsü 2022-03-08 045101](https://user-images.githubusercontent.com/69719126/157150260-236358b5-ae5a-4a16-8720-f15f24b245ca.png)
 <br>
+Project 2 Form Validator
 ![Ekran görüntüsü 2022-03-08 045010](https://user-images.githubusercontent.com/69719126/157150325-dbc61ee6-926c-4036-8439-3cec0de318e0.png)
 
 
